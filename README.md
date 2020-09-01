@@ -1,5 +1,8 @@
 # vue-simple-translation
 
+![Minion](https://img.shields.io/badge/vue-2.x-green)
+![Minion](https://img.shields.io/badge/vue-2.x-green)
+
 ## Installation
 
     npm install vue-simple-translation
@@ -80,7 +83,7 @@ Create a .js file containing keys and texts, then you can duplicate that content
      <tempalte>
         
         // Here you can use a Dropdown on your toolbar to change Tranzlation using $ChangeCurrentLanguage() in my case i use Bootstrap v4.5
-        // __[bootstrap](https://getbootstrap.com/docs/4.5/components/dropdowns/)__  
+        // https://getbootstrap.com/docs/4.5/components/dropdowns/  
         // you are free to customize your drop-down menu
         
         <div class="dropdown">
