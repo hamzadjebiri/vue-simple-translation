@@ -1,7 +1,9 @@
 # vue-simple-translation
 
 ![Minion](https://img.shields.io/badge/vue-2.x-green)
-![Minion](https://img.shields.io/badge/vue-2.x-green)
+![Minion](https://img.shields.io/badge/build-passing-green)
+![Minion](https://img.shields.io/badge/license-MIT-red)
+![Minion](https://img.shields.io/badge/npm-v1.0.2-red)
 
 ## Installation
 
