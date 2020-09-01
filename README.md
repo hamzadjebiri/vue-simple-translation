@@ -7,7 +7,7 @@
 
 ## Installation
 
-    npm install vue-simple-translation
+    npm i vue-simple-translation
     
 ## Usage
 
