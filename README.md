@@ -76,7 +76,7 @@ Create a .js file containing keys and texts, then you can duplicate that content
 ``` js  
      //exp: test.vue
      <template>
-       <p> {{$Lang('hMessage.read')}} </p> // result : Show messages
+       <p> {{$Lang('Message.read')}} </p> // result : Show messages
      </template>
 ```    
 ### by default, the current language will be retrieved from your browser but you can change it
