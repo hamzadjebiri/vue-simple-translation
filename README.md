@@ -4,7 +4,6 @@
 ![Minion](https://img.shields.io/badge/build-passing-green)
 ![Minion](https://img.shields.io/badge/license-MIT-red)
 ![Minion](https://img.shields.io/badge/npm-v1.0.2-red)
-![Minion](https://img.shields.io/badge/laravel-7.x-green)
 
 ## Installation
 
